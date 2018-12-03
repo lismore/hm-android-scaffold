@@ -13,7 +13,11 @@ This app provides a simple scaffold to start building an app with HMKit on Andro
 Before running the app, make sure to configure the following in `MainActivity.java`:
 
 1. Initialise HMKit with a valid `Device Certiticate` from the Developer Center https://developers.high-mobility.com/
-2. Create an `Access Token` in the car emulator following the steps in https://developers.high-mobility.com/resources/tutorials/virtual-cars/using-telematics and paste it in the source code to download an `Access Certificate` from the server
+2. Follow the introduction and setup https://high-mobility.com/learn/tutorials/sdk/android/#introduction-and-setup
+2. Create an `Access Token` in the car emulator and paste in the source code to download an `Access Certificate` from the server
+
+    ![IOTA Mobility](https://i.ibb.co/Vjnb3k5/iotamobility.png)
+
 
 # Run the app
 
